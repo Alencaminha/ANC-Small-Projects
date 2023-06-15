@@ -1,0 +1,17 @@
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\bin\Debug\net6.0-windows\SimpleCalculatorApp.exe
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\bin\Debug\net6.0-windows\SimpleCalculatorApp.deps.json
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\bin\Debug\net6.0-windows\SimpleCalculatorApp.runtimeconfig.json
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\bin\Debug\net6.0-windows\SimpleCalculatorApp.dll
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\bin\Debug\net6.0-windows\SimpleCalculatorApp.pdb
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.SimpleCalculator.resources
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.csproj.GenerateResource.cache
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.AssemblyInfo.cs
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.dll
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\refint\SimpleCalculatorApp.dll
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.pdb
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\SimpleCalculatorApp.genruntimeconfig.cache
+C:\Users\zizin\Documents\Kodes\C#\SimpleCalculatorApp\obj\Debug\net6.0-windows\ref\SimpleCalculatorApp.dll
